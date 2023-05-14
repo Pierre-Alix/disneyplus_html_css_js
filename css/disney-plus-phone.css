@@ -1,0 +1,347 @@
+@media screen and (max-width:480px){
+    body{
+        position: absolute;
+        margin:0;
+        font-family: police1;
+        color: #f9f9f9;
+    }
+
+    .logo_disney3{
+        height: 7vh;
+        width: 86px;
+        margin-top: 45px;
+        margin-left: 5%;
+    }
+
+    .inscrire{
+        margin-left: 28%;
+        margin-top: 10%;
+        width: 22%;
+        font-size: 90%;
+    }
+
+    .connexion{
+        margin-left: 75%;
+        margin-top: 10%;
+        width: 22%;
+        font-size: 90%;
+    }
+
+    .fond1{
+        position: relative;
+        height: 150vh;
+        width: 100%;
+        background-image: url('/img/fond_telephone.jpg');
+        background-size:100%;
+        background-repeat: no-repeat;
+        background-position: 0% auto;
+    }
+
+    .formulaire{
+        position: absolute;
+        height: 60vh;
+        width: 100%; 
+        left:0%;
+        top: 30%;
+        text-align: center;
+    }
+
+    .logo_disney{
+        width:27%;
+        height: 18%;
+        margin-bottom: -10px;
+    }
+
+    .titre1{
+        font-size: 200%;
+        line-height: 40px;
+    }
+
+    .sous-titre1{
+        font-size: 103%;
+        padding-left: 20px;
+        padding-right: 20px;
+        line-height: 26px;
+    }
+
+    .mail{
+        background-color: #31343e;
+        height:7.5vh;
+        width: 83%;
+        padding:0 12px;
+        border:0.8px;
+        border-radius: 4px;
+        font-family: Police2;
+        font-size: 110%;
+        color:silver;
+        margin-bottom: 10px;
+    }
+
+    .validation{
+        background-color: #0063e5;
+        height:7.5vh;
+        width: 87.5%;
+        border:0.8px;
+        border-radius: 4px;
+        font-size: 100%;
+        color:#f9f9f9;
+        margin-left: 0.3%;
+    }
+
+    .fleche{
+        bottom:13%;
+        left:47%;
+    }
+
+    .fond2{
+        height: 100vh;
+        width: 100%;
+        background-image: url('/img/andor.jpeg');
+        background-size: 100% 50%;
+        background-repeat: no-repeat;
+        background-position: 0% 30%;
+        margin-bottom: -40%;
+    }
+
+    .exclu{
+        width: 80%;
+        top:20%;
+        left:13%
+    }
+
+    .titre2{
+        font-size: 200%;
+        margin-top:-75%;
+        margin-left: -17%;
+        text-align: center;
+    }
+
+    .sous-titre2{
+        position: absolute;
+        font-size: 103%;
+        left: -17%;
+        text-align: center;
+        padding-left: 25px;
+        padding-right: 28px;
+        margin-top: 10px;
+    }
+
+    .fond3{
+        background-size: 110% 40%;
+    }
+
+    .titre3{
+        position: absolute;
+        font-size: 28px;
+        left:-90px;
+        top:100px;
+        width: 400px;
+    }
+
+    .sous-titre3{
+        position: absolute;
+        top:180px;
+        left:-110px;
+        font-size: 103%;
+        width: 430px;
+    }
+
+    .fond4{
+        height: 120vh;
+
+    }
+
+    .cercle{
+        top:-20%;
+       left:12%;
+    }
+    
+    .cercle2{
+        top:15%;
+        left:9.5%;
+    }
+    
+    .cercle3{
+        top:50%;
+        left:12%;
+    }
+
+    .titre4{
+        margin-left:6px;
+        font-size: 145%;
+    }
+
+    .titre4 br{
+        display:none;
+    }
+
+    .sous-titre4{
+        font-size: 110%;
+        margin-left: 8px;
+    }
+
+    .question{
+        text-align: right;
+        display: block;
+        width: 470px;
+        margin-bottom: 70px;
+    }
+
+    .plus_moins{
+        margin-left: -50px;
+        margin-top:8px;
+    }
+
+    .ask1,.ask2,.ask3,.ask4,.ask5{
+        width: 450px;
+        margin-right: 0px;
+    }
+
+    .q1,.q2,.q3,.q4,.q5{
+        font-size: 17px;
+        padding-right: 10px;
+        margin-left: 20px;
+    }
+
+    .titre5{
+        margin-right: 99px;
+        font-size: 25px;
+    }
+
+    .titre6{
+        font-size: 25px;
+    }
+
+    .television,.ordinateur,.telephone,.manette{
+        position:absolute;
+        top:70px;
+        right:30px;
+        width: 10px;
+        height:10px;
+    }
+
+    .pc_img,.tv_img,.phone_img,.controller_img{
+        position:absolute;
+        height:15vh;
+        width: 195px;
+    }
+
+    .tv_img{
+        left:-425px;
+    }
+
+    .tv_main{
+        position: absolute;
+        top:100px;
+        right:278px;
+        font-size: 23px;
+    }
+
+    .tv_sub{
+        position: absolute;
+        right:235px;
+        top:160px;
+        font-size: 16.5px;
+        width: 200px;
+    }
+
+    .pc_img{
+        left:-168px;
+    }
+
+    .pc_main{
+        position: absolute;
+        top:100px;
+        right:17px;
+        font-size: 23px;
+    }
+
+    .pc_sub{
+        position: absolute;
+        right:-20px;
+        top:160px;
+        font-size: 16.5px;
+        width: 200px;
+    }
+
+    .phone_img{
+        left:-418px;
+        top:400px;
+    }
+
+    .phone_main{
+        position: absolute;
+        top:480px;
+        right:220px;
+        font-size: 23px;
+        width: 218px;
+    }
+
+    .phone_sub{
+        position: absolute;
+        right:230px;
+        top:540px;
+        font-size: 16.5px;
+        width: 200px;
+    }
+
+
+    .controller_img{
+        left:-168px;
+        top:400px;
+    }
+
+    .controller_main{
+        position: absolute;
+        top:480px;
+        right:-25px;
+        font-size: 23px;
+        width: 218px;
+    }
+
+    .controller_sub{
+        position: absolute;
+        right:-20px;
+        top:540px;
+        font-size: 16.5px;
+        width: 200px;
+    }
+
+    footer{
+        margin-top: 250px;
+        line-height: 30px;
+    }
+
+    .logo_disney2{
+        height: 45px;
+        width: 80px;
+        margin-left:200px;
+        margin-bottom: 5px;
+        top:15px;
+    }
+
+    .mention{
+        margin-left: 0px;
+        width: 420px;
+        text-align: center;
+    }
+
+    .mention br{
+        display:block
+    }
+
+    .mention3{
+        margin-left: -1px;
+        margin-bottom: 100px;
+    }
+
+
+    .fin{
+        word-spacing: 1px;
+    }
+
+    li.fin,li.fin1{
+        margin-left: 6px;
+        margin-right: 10px;
+    }
+}
